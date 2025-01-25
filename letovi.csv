@@ -1,0 +1,21 @@
+broj_leta;sifra_polazisnog_aerodroma;sifra_odredisnog_aerodorma;vreme_poletanja;vreme_sletanja;sletanje_sutra;prevoznik;dani;model;cena;datum_pocetka_operativnosti;datum_kraja_operativnosti
+aa00;BEG;TGD;13:25;14:09;n;Air Srbija;1 2 3 4 5 6 7;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};34.234;2023-01-24 00:00:00;2023-12-31 00:00:00
+aa01;BEG;TIV;15:19;16:25;n;Air Srbija;1 2 3 4 5 6 7;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};30.43;2023-01-24 00:00:00;2023-12-31 00:00:00
+aa02;BEG;GYD;10:02;15:55;n;Air Srbija;1 3 4 7;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};87.23;2023-01-24 00:00:00;2023-12-31 00:00:00
+aa03;BEG;JFK;20:12;08:43;y;Air Srbija;2 4 5;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};344.423;2023-01-24 00:00:00;2023-12-31 00:00:00
+aa04;BEG;YYZ;23:44;10:21;y;Air Srbija;1 3 5;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};214.65;2023-01-24 00:00:00;2023-12-31 00:00:00
+aa05;BEG;ARN;09:32;13:12;n;Air Srbija;1 2 3 5 6;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};87.32;2023-01-24 00:00:00;2023-12-31 00:00:00
+aa06;BEG;PRG;04:58;07:01;n;Air Srbija;1 2 3 4 5 6 7;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};32.29;2023-01-24 00:00:00;2023-12-31 00:00:00
+aa07;BEG;IST;12:48;15:04;n;Air Srbija;3 5 6 7;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};50.0;2023-01-24 00:00:00;2023-12-31 00:00:00
+aa08;BEG;SVO;18:19;00:18;y;Air Srbija;1 2 3 5 6;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};100.89;2023-01-24 00:00:00;2023-12-31 00:00:00
+ab01;TGD;BEG;07:11;08:00;n;Air Srbija;1 2 3 4 5 6 7;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};27.76;2023-01-24 00:00:00;2023-12-31 00:00:00
+ac01;TGD;GYD;09:55;14:34;n;Air Montenegro;1 2 5 6;{'id': 7533, 'naziv': 'AIRBUS', 'broj_redova': 40, 'pozicije_sedista': ['A','C','D','E','F','G','K','H']};66.87;2023-01-24 00:00:00;2023-12-31 00:00:00
+cc01;SVO;BEG;17:23;23:50;n;Aeroflot;1 2 3 4 5 6 7;{'id': 4506, 'naziv': 'Tupoljev Tu-154', 'broj_redova': 30, 'pozicije_sedista': ['A','B','C','D','E','F']};89.00;2023-01-24 00:00:00;2023-12-31 00:00:00
+cc02;SVO;TGD;11:09;18:43;n;Aeroflot;1 2 3 4 5 6 7;{'id': 4506, 'naziv': 'Tupoljev Tu-154', 'broj_redova': 30, 'pozicije_sedista': ['A','B','C','D','E','F']};57.00;2023-01-24 00:00:00;2023-12-31 00:00:00
+cc03;SVO;TIV;20:23;05:12;y;Aeroflot;1 2 3 4 5 6 7;{'id': 4506, 'naziv': 'Tupoljev Tu-154', 'broj_redova': 30, 'pozicije_sedista': ['A','B','C','D','E','F']};36.76;2023-01-24 00:00:00;2023-12-31 00:00:00
+cc04;SVO;GYD;10:52;15:50;n;Aeroflot;1 2 3 4 5 6 7;{'id': 4506, 'naziv': 'Tupoljev Tu-154', 'broj_redova': 30, 'pozicije_sedista': ['A','B','C','D','E','F']};109.45;2023-01-24 00:00:00;2023-12-31 00:00:00
+cc05;SVO;JFK;14:54;20:00;n;Aeroflot;1 2 3 4 5 6 7;{'id': 4506, 'naziv': 'Tupoljev Tu-154', 'broj_redova': 30, 'pozicije_sedista': ['A','B','C','D','E','F']};120.64;2023-01-24 00:00:00;2023-12-31 00:00:00
+cc06;SVO;YYZ;02:49;09:14;n;Aeroflot;1 2 3 7;{'id': 4506, 'naziv': 'Tupoljev Tu-154', 'broj_redova': 30, 'pozicije_sedista': ['A','B','C','D','E','F']};93.65;2023-01-24 00:00:00;2023-12-31 00:00:00
+cc07;SVO;ARN;22:50;00:56;y;Aeroflot;1 5 7;{'id': 4506, 'naziv': 'Tupoljev Tu-154', 'broj_redova': 30, 'pozicije_sedista': ['A','B','C','D','E','F']};76.23;2023-01-24 00:00:00;2023-12-31 00:00:00
+cc08;SVO;PRG;06:12;10:27;n;Aeroflot;2 3 5 6 7;{'id': 4506, 'naziv': 'Tupoljev Tu-154', 'broj_redova': 30, 'pozicije_sedista': ['A','B','C','D','E','F']};67.76;2023-01-24 00:00:00;2023-12-31 00:00:00
+cc09;SVO;IST;11:40;15:31;n;Aeroflot;4 5 6 7;{'id': 4506, 'naziv': 'Tupoljev Tu-154', 'broj_redova': 30, 'pozicije_sedista': ['A','B','C','D','E','F']};50.76;2023-01-24 00:00:00;2023-12-31 00:00:00
